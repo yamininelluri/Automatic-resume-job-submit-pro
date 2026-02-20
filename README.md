@@ -1,11 +1,16 @@
-# Automatic Resume Job Submit
+# Automatic Resume Job Submit Project
 
-This project automates the submission of resumes for job applications.
+This project helps in submitting resumes for job applications automatically.
 
-## Getting Started
+## Features
+- User authentication
+- Resume creation and management
+- Job search and application management
 
-Instructions to set up the project.
+## Installation
+1. Clone the repo
+2. Install dependencies with `npm install`
+3. Set up your `.env` file
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## Usage
+Run the backend server with `node backend/server.js` and the frontend with `npm start` in the frontend directory.
