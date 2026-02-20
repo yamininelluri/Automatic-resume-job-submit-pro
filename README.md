@@ -1,16 +1,40 @@
-# Automatic Resume Job Submit Project
+# Automatic Resume Job Submit
 
-This project helps in submitting resumes for job applications automatically.
+This project automates the process of submitting resumes to various job platforms. It allows users to streamline their job applications and reduce the time spent on job searches.
 
 ## Features
-- User authentication
-- Resume creation and management
-- Job search and application management
+- User-friendly interface for submitting resumes.
+- Integrates with popular job platforms.
+- Tracks submission status for different positions.
 
-## Installation
-1. Clone the repo
-2. Install dependencies with `npm install`
-3. Set up your `.env` file
+## Getting Started
 
-## Usage
-Run the backend server with `node backend/server.js` and the frontend with `npm start` in the frontend directory.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yamininelluri/Automatic-resume-job-submit-pro.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Automatic-resume-job-submit-pro
+   ```
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Run the application:
+   ```bash
+   python app.py
+   ```
+
+## Contributing
+
+Contributions are welcome! Please create a pull request or open an issue for any suggestions.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+[yamininelluri](https://github.com/yamininelluri)
+
+## Date and Time
+Current Date and Time (UTC - 2026-02-20 17:34:52)
