@@ -1,1 +1,1 @@
-{}
+{"name":"automatic-resume-job-submit-pro","version":"1.0.0","description":"A tool to automate job submissions for resumes.","main":"index.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"author":"yamininelluri","license":"ISC"}
